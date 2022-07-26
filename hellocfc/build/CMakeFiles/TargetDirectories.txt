@@ -1,0 +1,3 @@
+/root/hellocfc/build/CMakeFiles/rebuild_cache.dir
+/root/hellocfc/build/CMakeFiles/hellocfc.dir
+/root/hellocfc/build/CMakeFiles/edit_cache.dir

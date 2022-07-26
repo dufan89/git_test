@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/hellocfc.dir/hellocfc.c.o  -o hellocfc 
